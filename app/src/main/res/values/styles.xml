@@ -1,7 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Base application theme. -->
-    <style name="Theme.JetCommerce_v1" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <style name="Theme.ArinzeCommerce_v2" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
@@ -10,47 +10,47 @@
         <item name="android:textColorPrimary">@color/textColorPrimary</item>
     </style>
 
-    <style name="Widget.JetBreed.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
-        <item name="hintTextAppearance">@style/TextAppearance.JetBreed.TextInputLayout.HintText</item>
+    <style name="Widget.Arne.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="hintTextAppearance">@style/TextAppearance.Arne.TextInputLayout.HintText</item>
         <item name="hintTextColor">@color/textColorPrimary</item>
         <item name="android:paddingBottom">8dp</item>
         <item name="boxStrokeColor">@color/textInputOutlineColor</item>
     </style>
 
-    <style name="TextAppearance.JetBreed.TextInputLayout.HintText" parent="TextAppearance.MaterialComponents.Subtitle2">
+    <style name="TextAppearance.Arne.TextInputLayout.HintText" parent="TextAppearance.MaterialComponents.Subtitle2">
         <item name="android:textColor">?android:attr/textColorPrimary</item>
     </style>
 
-    <style name="Widget.JetBreed.Button" parent="Widget.MaterialComponents.Button">
+    <style name="Widget.Arne.Button" parent="Widget.MaterialComponents.Button">
         <item name="android:textColor">?android:attr/textColorPrimary</item>
         <item name="backgroundTint">?attr/colorPrimaryDark</item>
         <item name="android:stateListAnimator" tools:ignore="NewApi">
-            @animator/jet_next_button_state_list_anim
+            @animator/next_button_state_list_anim
         </item>
     </style>
 
-    <style name="Widget.JetBreed.Button.TextButton" parent="Widget.MaterialComponents.Button.TextButton">
+    <style name="Widget.Arne.Button.TextButton" parent="Widget.MaterialComponents.Button.TextButton">
         <item name="android:textColor">?android:attr/textColorPrimary</item>
     </style>
 
-    <style name="Widget.JetBreed.Toolbar" parent="Widget.AppCompat.Toolbar">
+    <style name="Widget.Arne.Toolbar" parent="Widget.AppCompat.Toolbar">
         <item name="android:background">?attr/colorAccent</item>
-        <item name="android:theme">@style/Theme.JetCommerce_v1</item>
+        <item name="android:theme">@style/Theme.ArinzeCommerce_v2</item>
         <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
-        <item name="titleTextAppearance">@style/TextAppearance.JetBreed.Toolbar</item>
+        <item name="titleTextAppearance">@style/TextAppearance.Arne.Toolbar</item>
     </style>
 
-    <style name="TextAppearance.JetBreed.Toolbar" parent="TextAppearance.MaterialComponents.Button">
+    <style name="TextAppearance.Arne.Toolbar" parent="TextAppearance.MaterialComponents.Button">
         <item name="android:textSize">16sp</item>
     </style>
 
-    <style name="TextAppearance.JetBreed.Title" parent="TextAppearance.MaterialComponents.Headline4">
+    <style name="TextAppearance.Arne.Title" parent="TextAppearance.MaterialComponents.Headline4">
         <item name="textAllCaps">true</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textColor">?android:attr/textColorPrimary</item>
     </style>
 
-    <style name="Widget.JetBreed.Backdrop" parent="">
+    <style name="Widget.Arne.Backdrop" parent="">
         <item name="android:background">?attr/colorAccent</item>
     </style>
 

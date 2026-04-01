@@ -1,23 +1,23 @@
 <resources>
-    <string name="jet_app_name">JetBreed</string>
-    <string name="jet_hint_username">Username</string>
-    <string name="jet_hint_password">Password</string>
-    <string name="jet_button_next">Next</string>
-    <string name="jet_button_cancel">Cancel</string>
-    <string name="jet_error_password">Password must contain at least 8 characters.</string>
-    <string name="jet_filter_title">Filter</string>
-    <string name="jet_search_title">Search</string>
-    <string name="jet_product_title">Title</string>
-    <string name="jet_product_description">Secondary text</string>
+    <string name="app_name">Arinze</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_next">Next</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="error_password">Password must contain at least 8 characters.</string>
+    <string name="filter_title">Filter</string>
+    <string name="search_title">Search</string>
+    <string name="product_title">Title</string>
+    <string name="product_description">Secondary text</string>
 
     <!-- JetBreed backdrop menu labels -->
-    <string name="jet_featured_label">Featured</string>
-    <string name="jet_apartment_label">Apartment</string>
-    <string name="jet_accessories_label">Accessories</string>
-    <string name="jet_shoes_label">Shoes</string>
-    <string name="jet_tops_label">Tops</string>
-    <string name="jet_bottoms_label">Bottoms</string>
-    <string name="jet_dresses_label">Dresses</string>
-    <string name="jet_account_label">My Account</string>
+    <string name="featured_label">Featured</string>
+    <string name="apartment_label">Apartment</string>
+    <string name="accessories_label">Accessories</string>
+    <string name="shoes_label">Shoes</string>
+    <string name="tops_label">Tops</string>
+    <string name="bottoms_label">Bottoms</string>
+    <string name="dresses_label">Dresses</string>
+    <string name="account_label">My Account</string>
     <string name="logo_desc">The Logo Image</string>
 </resources>

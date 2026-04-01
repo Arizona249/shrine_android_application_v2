@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "JetCommerce_v1"
+rootProject.name = "ArinzeCommerce_v2"
 include(":app")
  

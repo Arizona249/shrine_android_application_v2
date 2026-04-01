@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.jetcommerce_v1"
+    namespace = "com.example.ArinzeCommerce_v2"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.jetcommerce_v1"
+        applicationId = "com.example.ArinzeCommerce_v2"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
